@@ -36,7 +36,7 @@
   text-transform: uppercase;
 }
 
-.link ::after {
+.link::after {
   content: "";
   display: block;
   width: 100%;
